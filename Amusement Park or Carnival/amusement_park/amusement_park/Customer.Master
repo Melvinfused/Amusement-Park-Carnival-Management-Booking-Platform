@@ -1,0 +1,188 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Customer.master.cs" Inherits="amusement_park.Customer" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Male_Fashion Template">
+    <meta name="keywords" content="Male_Fashion, unica, creative, html">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Pierview</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700;800;900&display=swap"
+    rel="stylesheet">
+
+    <!-- Css Styles -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="css/elegant-icons.css" type="text/css">
+    <link rel="stylesheet" href="css/magnific-popup.css" type="text/css">
+    <link rel="stylesheet" href="css/nice-select.css" type="text/css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css" type="text/css">
+    <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+
+
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style>
+        .footer__abouttxt {
+        color: white; /* Set text color to white */
+        margin-left: 12px;
+        margin-bottom: 24px;
+}
+    }
+        .footer__loctxt {
+        color: white; /* Set text color to white */
+        margin-left: 50px;
+        margin-bottom: 24px;
+        }
+    </style>
+</head>
+<body>
+
+<%--<!-- Page Preloder -->
+    <div id="preloder">
+        <div class="loader"></div>
+    </div>--%>
+
+    <!-- Header Section Begin -->
+    <header class="header">
+        
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-3">
+                    <div class="header__logo">
+                        <a href="Home.aspx"><img src="img/logo.png" alt=""></a>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6">
+                    <nav class="header__menu mobile-menu">
+                        <ul>
+                            <li><a href="./Home.aspx">Home</a></li>
+                            <li><a href="./Bookings page.aspx">Book Activities</a></li>
+                            <li><a href="./about us.aspx">About Us</a></li>
+                            <li><a href="./MyBookings.aspx">My Bookings</a></li>
+                            <%--<li><a href="#">Pages</a>
+                                <ul class="dropdown">
+                                    <li><a href="./about.html">About Us</a></li>
+                                    <li><a href="./shop.html">Shop Details</a></li>
+                                    <li><a href="./shopping-cart.html">Shopping Cart</a></li>
+                                    <li><a href="./checkout.html">Check Out</a></li>
+                                    <li><a href="./blog-details.html">Blog Details</a></li>
+                                </ul>
+                            </li>--%>
+                            <%--<li><a href="./contact.html">Contact </a></li>--%>
+                        </ul>
+                    </nav>
+                </div>
+                <div class="col-lg-3 col-md-3">
+                    <div class="header__nav__option">
+                        <%--<a href="#" class="search-switch"><img src="img/icon/search.png" alt=""></a>
+                        <a href="#"><img src="img/icon/heart.png" alt=""></a>--%>
+                        <a href="Kart.aspx"><img src="img/icon/cart.png" alt=""> <span></span></a>
+                        <div class="price"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="canvas__open"><i class="fa fa-bars"></i></div>
+        </div>
+    </header>
+    <!-- Header Section End -->
+
+
+
+    	<form id="form1" runat="server">
+                <div>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </form>
+
+
+
+<!-- Footer Section Begin -->
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="footer__about">
+                        <div class="footer__logo">
+                            <a href="#"><img src="img/footer-logo.png" alt=""></a>
+                        </div>
+                        <div class="footer__abouttxt">
+                            Seaside Thrills Awaits
+
+                        </div>
+                        
+                        <a href="#"><img src="img/payment.png" alt=""></a>
+                    </div>
+                </div>
+                <%--<div class="col-lg-2 offset-lg-1 col-md-3 col-sm-6">
+                    <div class="footer__widget">
+                        <h6>Shopping</h6>
+                        <ul>
+                            <li><a href="#">Clothing Store</a></li>
+                            <li><a href="#">Trending Shoes</a></li>
+                            <li><a href="#">Accessories</a></li>
+                            <li><a href="#">Sale</a></li>
+                        </ul>
+                    </div>
+                </div>--%>
+                <div class="col-lg-2 col-md-3 col-sm-6">
+                    <div class="footer__widget">
+                        <h6>Where we are</h6>
+                        <ul>
+                            <%--<li><a href="#"></a></li>--%>
+                            <div class="footer__loctxt">
+                            <a href="https://maps.app.goo.gl/2xzjuccogVvp7fYL8">Pierview Walk 456
+                               Coastal Avenue, Harbor Cove, FL 696969 </a>
+                                </div>
+                            
+                            <%--<li><a href="#">Payment Methods</a></li>
+                            <li><a href="#">Delivary</a></li>
+                            <li><a href="#">Return & Exchanges</a></li>--%>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 offset-lg-1 col-md-6 col-sm-6">
+                    <div class="footer__widget">
+                        <h6>Get In Touch</h6>
+                        <ul>
+                            <li><a href="mailto:pierviewwalk@outlook.com">pierviewwalk@outlook.com</a></li>
+                            <p>Phone: 555-555-1234</p>
+                        </ul>
+                        <%--<div class="footer__newslatter">
+                            <p>Be the first to know about new arrivals, look books, sales & promos!</p>
+                            <form action="#">
+                                <input type="text" placeholder="Your email">
+                                <button type="submit"><span class="icon_mail_alt"></span></button>
+                            </form>
+                        </div>--%>
+                    </div>
+                </div>
+            </div>
+            <%--<div class="row">
+                <div class="col-lg-12 text-center">
+                    <div class="footer__copyright__text">
+                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                        <p>Copyright ©
+                            <script>
+                                document.write(new Date().getFullYear());
+                            </script>2020
+                            All rights reserved | This template is made with <i class="fa fa-heart-o"
+                            aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                        </p>
+                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                    </div>
+                </div>
+            </div>--%>
+        </div>
+    </footer>
+    <!-- Footer Section End -->
+</body>
+</html>

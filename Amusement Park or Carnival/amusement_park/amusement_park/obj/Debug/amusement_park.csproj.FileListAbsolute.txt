@@ -1,0 +1,64 @@
+D:\IMCA20010\amusement_park\amusement_park\bin\roslyn\csc.exe
+D:\IMCA20010\amusement_park\amusement_park\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IMCA20010\amusement_park\amusement_park\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IMCA20010\amusement_park\amusement_park\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IMCA20010\amusement_park\amusement_park\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IMCA20010\amusement_park\amusement_park\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IMCA20010\amusement_park\amusement_park\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IMCA20010\amusement_park\amusement_park\bin\roslyn\System.Collections.Immutable.dll
+D:\IMCA20010\amusement_park\amusement_park\bin\roslyn\System.Reflection.Metadata.dll
+D:\IMCA20010\amusement_park\amusement_park\bin\roslyn\vbc.exe
+D:\IMCA20010\amusement_park\amusement_park\bin\roslyn\VBCSCompiler.exe
+D:\IMCA20010\amusement_park\amusement_park\bin\roslyn\VBCSCompiler.exe.config
+D:\IMCA20010\amusement_park\amusement_park\bin\amusement_park.dll.config
+D:\IMCA20010\amusement_park\amusement_park\bin\amusement_park.dll
+D:\IMCA20010\amusement_park\amusement_park\bin\amusement_park.pdb
+D:\IMCA20010\amusement_park\amusement_park\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IMCA20010\amusement_park\amusement_park\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IMCA20010\amusement_park\amusement_park\obj\Debug\amusement_park.csprojResolveAssemblyReference.cache
+D:\IMCA20010\amusement_park\amusement_park\obj\Debug\amusement_park.dll
+D:\IMCA20010\amusement_park\amusement_park\obj\Debug\amusement_park.pdb
+C:\Users\Melvin\Documents\Mini-Project\IMCA20010\amusement_park\amusement_park\bin\roslyn\csc.exe
+C:\Users\Melvin\Documents\Mini-Project\IMCA20010\amusement_park\amusement_park\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Melvin\Documents\Mini-Project\IMCA20010\amusement_park\amusement_park\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Melvin\Documents\Mini-Project\IMCA20010\amusement_park\amusement_park\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Melvin\Documents\Mini-Project\IMCA20010\amusement_park\amusement_park\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Melvin\Documents\Mini-Project\IMCA20010\amusement_park\amusement_park\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Melvin\Documents\Mini-Project\IMCA20010\amusement_park\amusement_park\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Melvin\Documents\Mini-Project\IMCA20010\amusement_park\amusement_park\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Melvin\Documents\Mini-Project\IMCA20010\amusement_park\amusement_park\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Melvin\Documents\Mini-Project\IMCA20010\amusement_park\amusement_park\bin\roslyn\vbc.exe
+C:\Users\Melvin\Documents\Mini-Project\IMCA20010\amusement_park\amusement_park\bin\roslyn\VBCSCompiler.exe
+C:\Users\Melvin\Documents\Mini-Project\IMCA20010\amusement_park\amusement_park\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Melvin\Documents\Mini-Project\IMCA20010\amusement_park\amusement_park\bin\amusement_park.dll.config
+C:\Users\Melvin\Documents\Mini-Project\IMCA20010\amusement_park\amusement_park\bin\amusement_park.dll
+C:\Users\Melvin\Documents\Mini-Project\IMCA20010\amusement_park\amusement_park\bin\amusement_park.pdb
+C:\Users\Melvin\Documents\Mini-Project\IMCA20010\amusement_park\amusement_park\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Melvin\Documents\Mini-Project\IMCA20010\amusement_park\amusement_park\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Melvin\Documents\Mini-Project\IMCA20010\amusement_park\amusement_park\obj\Debug\amusement_park.csproj.AssemblyReference.cache
+C:\Users\Melvin\Documents\Mini-Project\IMCA20010\amusement_park\amusement_park\obj\Debug\amusement_park.csproj.CoreCompileInputs.cache
+C:\Users\Melvin\Documents\Mini-Project\IMCA20010\amusement_park\amusement_park\obj\Debug\amusement_park.csproj.CopyComplete
+C:\Users\Melvin\Documents\Mini-Project\IMCA20010\amusement_park\amusement_park\obj\Debug\amusement_park.dll
+C:\Users\Melvin\Documents\Mini-Project\IMCA20010\amusement_park\amusement_park\obj\Debug\amusement_park.pdb
+D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\bin\roslyn\csc.exe
+D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\bin\roslyn\System.Collections.Immutable.dll
+D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\bin\roslyn\System.Reflection.Metadata.dll
+D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\bin\roslyn\vbc.exe
+D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\bin\roslyn\VBCSCompiler.exe
+D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\bin\roslyn\VBCSCompiler.exe.config
+D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\bin\amusement_park.dll.config
+D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\bin\amusement_park.dll
+D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\bin\amusement_park.pdb
+D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\obj\Debug\amusement_park.csproj.AssemblyReference.cache
+D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\obj\Debug\amusement_park.csproj.CoreCompileInputs.cache
+D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\obj\Debug\amusement_park.csproj.CopyComplete
+D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\obj\Debug\amusement_park.dll
+D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\obj\Debug\amusement_park.pdb

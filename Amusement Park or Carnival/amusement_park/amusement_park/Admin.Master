@@ -1,0 +1,203 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="amusement_park.Admin" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8">
+	<title>HTML5 Admin Template</title>
+	
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,500,500i,600,600i,700" rel="stylesheet">
+	
+	<!-- Template Styles -->
+	<link rel="stylesheet" href="cssAdmin/font-awesome.min.css">
+	
+	<!-- CSS Reset -->
+	<link rel="stylesheet" href="cssAdmin/normalize.css">
+	
+	<!-- Milligram CSS minified -->
+	<link rel="stylesheet" href="cssAdmin/milligram.min.css">
+	
+	<!-- Main Styles -->
+	<link rel="stylesheet" href="cssAdmin/styles.css">
+	
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        </style>
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link href="datatable/css/cdn.datatables.net_1.13.6_css_jquery.dataTables.min.css" rel="stylesheet" />
+    <link href="datatable/css/cdn.datatables.net_buttons_2.4.1_css_buttons.dataTables.min.css" rel="stylesheet" />
+         <script src="datatable/js/code.jquery.com_jquery-3.7.0.js"></script>
+        <script src="datatable/js/cdn.datatables.net_1.13.6_js_jquery.dataTables.min.js"></script>
+        <script src="datatable/js/cdn.datatables.net_buttons_2.4.1_js_dataTables.buttons.min.js"></script>
+        <script src="datatable/js/cdnjs.cloudflare.com_ajax_libs_jszip_3.10.1_jszip.min.js"></script>
+        <script src="datatable/js/cdnjs.cloudflare.com_ajax_libs_pdfmake_0.1.53_pdfmake.min.js"></script>
+        <script src="datatable/js/cdnjs.cloudflare.com_ajax_libs_pdfmake_0.1.53_vfs_fonts.js"></script>
+        <script src="datatable/js/cdn.datatables.net_buttons_2.4.1_js_buttons.html5.min.js"></script>
+        <script src="datatable/js/cdn.datatables.net_buttons_2.4.1_js_buttons.print.min.js"></script>
+
+   <script>
+       $(document).ready(function () {
+           $('#example').DataTable({
+               dom: 'Bfrtip',
+               buttons: [
+                   'copy', 'csv', 'excel', 'pdf', 'print'
+               ]
+           });
+	   });
+       $(document).ready(function () {
+           $('#example2').DataTable({
+               dom: 'Bfrtip',
+               buttons: [
+                   'copy', 'csv', 'excel', 'pdf', 'print'
+               ]
+           });
+	   });
+       $(document).ready(function () {
+           $('#example3').DataTable({
+               dom: 'Bfrtip',
+               buttons: [
+                   'copy', 'csv', 'excel', 'pdf', 'print'
+               ]
+           });
+	   });
+       $(document).ready(function () {
+           $('#example4').DataTable({
+               dom: 'Bfrtip',
+               buttons: [
+                   'copy', 'csv', 'excel', 'pdf', 'print'
+               ]
+           });
+       });
+       
+   </script> 
+</head>
+<body>
+    <div class="navbar">
+	<div>
+		<div class="row">
+			<div class="column column-30 col-site-title">
+				<%--<a class="site-title float-left">Pierview</a>--%>
+				<a href="Ride_Admin.aspx"><img src="img/logo.png" alt=""></a>
+				
+			</div>
+			
+				
+			</div>
+			<div class="column column-30">
+				<div class="user-section"><a href="#">
+					<!--<img src="http://via.placeholder.com/50x50" alt="profile photo" class="circle float-left profile-photo" width="50" height="auto">-->
+					<div class="username">
+						<%--<h4>Administrator</h4>--%>
+						<%--<p>&nbsp;&nbsp;&nbsp; Administrator</p>--%>
+					</div>
+				</a></div>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div id="sidebar" class="column" style="left: -15px; top: -81px; height: 136%">
+			<a><img src="img/protection.png" alt=""></a> 
+			<%--<h5>&nbsp;</h5>
+            <h5>&nbsp;</h5>--%>
+            <h5>Navigation</h5>
+			<ul>
+				<li><a href="Ride_Admin.aspx"><em class="fa fa-pencil-square-o"></em>Manage Rides</a></li>
+				<li><a href="Admin_Reports.aspx"><em class="fa fa-columns"></em> Reports</a></li>
+				<li><a href="DatedReportplain.aspx"><em class="fa fa-columns"></em> Date-wise Report</a></li>
+				<li><a href="Admin_Login.aspx"><em class="fa fa-lock"></em> Log Out</a></li>
+			</ul>
+		</div>
+		<section id="main-content" class="column column-offset-20">
+			
+
+            <!--Forms-->
+			<!--<h5 class="mt-2">Forms</h5><a class="anchor" name="forms"></a>
+			<div class="row grid-responsive">
+				<div class="column ">
+					<div class="card">
+						<div class="card-title">
+							<h3>Ride Management</h3>
+						</div>
+						<div class="card-block">
+							<form>
+								<fieldset>
+									
+
+
+
+								</fieldset>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>-->
+            		</section>
+	</div>
+	
+	<script src="jsAdmin/chart.min.js"></script>
+	<script src="jsAdmin/chart-data.js"></script>
+	<script>
+	window.onload = function () {
+		var chart1 = document.getElementById("line-chart").getContext("2d");
+		window.myLine = new Chart(chart1).Line(lineChartData, {
+		responsive: true,
+		scaleLineColor: "rgba(0,0,0,.2)",
+		scaleGridLineColor: "rgba(0,0,0,.05)",
+		scaleFontColor: "#c5c7cc"
+		});
+		var chart2 = document.getElementById("bar-chart").getContext("2d");
+		window.myBar = new Chart(chart2).Bar(barChartData, {
+		responsive: true,
+		scaleLineColor: "rgba(0,0,0,.2)",
+		scaleGridLineColor: "rgba(0,0,0,.05)",
+		scaleFontColor: "#c5c7cc"
+		});
+		var chart4 = document.getElementById("pie-chart").getContext("2d");
+		window.myPie = new Chart(chart4).Pie(pieData, {
+		responsive: true,
+		segmentShowStroke: false
+		});
+		var chart5 = document.getElementById("radar-chart").getContext("2d");
+		window.myRadarChart = new Chart(chart5).Radar(radarData, {
+		responsive: true,
+		scaleLineColor: "rgba(0,0,0,.05)",
+		angleLineColor: "rgba(0,0,0,.2)"
+		});
+		var chart6 = document.getElementById("polar-area-chart").getContext("2d");
+		window.myPolarAreaChart = new Chart(chart6).PolarArea(polarData, {
+		responsive: true,
+		scaleLineColor: "rgba(0,0,0,.2)",
+		segmentShowStroke: false
+		});
+	};
+	</script>
+   
+
+
+    <form id="form1" runat="server">
+    <div>
+        <table class="auto-style1">
+            <tr>
+                <td>&nbsp;</td>
+            </tr>
+        </table>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+        
+        </asp:ContentPlaceHolder>
+         
+    </div>
+    </form>
+</body>
+</html>
