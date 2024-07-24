@@ -1,6 +1,6 @@
 # Amusement Park Carnival Management Booking Platform
 
-This web development project was created by me for a college assignment. This was my first project, and it provides functionality for both clients and administrators to manage bookings and activities at an amusement park carnival.
+This web development project was created by me for a college assignment. This was my first project, and it provides functionality for both clients and administrators to manage bookings and activities at an amusement park or carnival setting.
 
 ## Features
 
