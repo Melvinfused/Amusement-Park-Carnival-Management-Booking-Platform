@@ -62,3 +62,25 @@ D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\obj\Debug\
 D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\obj\Debug\amusement_park.csproj.CopyComplete
 D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\obj\Debug\amusement_park.dll
 D:\College Works\Mini Project\IMCA20010\amusement_park\amusement_park\obj\Debug\amusement_park.pdb
+C:\Users\thoma\Amusement-Park-Carnival-Management-Booking-Platform\Amusement Park or Carnival\amusement_park\amusement_park\bin\roslyn\csc.exe
+C:\Users\thoma\Amusement-Park-Carnival-Management-Booking-Platform\Amusement Park or Carnival\amusement_park\amusement_park\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thoma\Amusement-Park-Carnival-Management-Booking-Platform\Amusement Park or Carnival\amusement_park\amusement_park\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thoma\Amusement-Park-Carnival-Management-Booking-Platform\Amusement Park or Carnival\amusement_park\amusement_park\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thoma\Amusement-Park-Carnival-Management-Booking-Platform\Amusement Park or Carnival\amusement_park\amusement_park\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thoma\Amusement-Park-Carnival-Management-Booking-Platform\Amusement Park or Carnival\amusement_park\amusement_park\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thoma\Amusement-Park-Carnival-Management-Booking-Platform\Amusement Park or Carnival\amusement_park\amusement_park\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thoma\Amusement-Park-Carnival-Management-Booking-Platform\Amusement Park or Carnival\amusement_park\amusement_park\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thoma\Amusement-Park-Carnival-Management-Booking-Platform\Amusement Park or Carnival\amusement_park\amusement_park\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thoma\Amusement-Park-Carnival-Management-Booking-Platform\Amusement Park or Carnival\amusement_park\amusement_park\bin\roslyn\vbc.exe
+C:\Users\thoma\Amusement-Park-Carnival-Management-Booking-Platform\Amusement Park or Carnival\amusement_park\amusement_park\bin\roslyn\VBCSCompiler.exe
+C:\Users\thoma\Amusement-Park-Carnival-Management-Booking-Platform\Amusement Park or Carnival\amusement_park\amusement_park\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thoma\Amusement-Park-Carnival-Management-Booking-Platform\Amusement Park or Carnival\amusement_park\amusement_park\bin\amusement_park.dll.config
+C:\Users\thoma\Amusement-Park-Carnival-Management-Booking-Platform\Amusement Park or Carnival\amusement_park\amusement_park\bin\amusement_park.dll
+C:\Users\thoma\Amusement-Park-Carnival-Management-Booking-Platform\Amusement Park or Carnival\amusement_park\amusement_park\bin\amusement_park.pdb
+C:\Users\thoma\Amusement-Park-Carnival-Management-Booking-Platform\Amusement Park or Carnival\amusement_park\amusement_park\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thoma\Amusement-Park-Carnival-Management-Booking-Platform\Amusement Park or Carnival\amusement_park\amusement_park\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thoma\Amusement-Park-Carnival-Management-Booking-Platform\Amusement Park or Carnival\amusement_park\amusement_park\obj\Debug\amusement_park.csproj.AssemblyReference.cache
+C:\Users\thoma\Amusement-Park-Carnival-Management-Booking-Platform\Amusement Park or Carnival\amusement_park\amusement_park\obj\Debug\amusement_park.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Amusement-Park-Carnival-Management-Booking-Platform\Amusement Park or Carnival\amusement_park\amusement_park\obj\Debug\amusement_park.csproj.CopyComplete
+C:\Users\thoma\Amusement-Park-Carnival-Management-Booking-Platform\Amusement Park or Carnival\amusement_park\amusement_park\obj\Debug\amusement_park.dll
+C:\Users\thoma\Amusement-Park-Carnival-Management-Booking-Platform\Amusement Park or Carnival\amusement_park\amusement_park\obj\Debug\amusement_park.pdb
