@@ -23,7 +23,7 @@ This web development project was created by me for a college assignment. This wa
     You can use this as a reference for your project/s.
 
 
-    This was my first web development project and there's a chance for errors popping up. However, there's nothing that can't be fixed. 
+    This was my first web development project.
 
 ## Screenshots
 
